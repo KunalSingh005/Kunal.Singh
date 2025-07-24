@@ -15,15 +15,14 @@ A motivated and proactive tech enthusiast, currently pursuing a Bachelor of Comp
 | **DevOps & Cloud** | `Docker` `Git` `GitHub` `GitHub Actions` `AWS (S3, EC2, IAM)`|
 
 ---
-
 ### 🚀 My Key Projects
 
-| Project                       | Description                                                     | Link to Repo |
-|-------------------------------|-----------------------------------------------------------------|--------------|
-| `Portfolio-Website-CI-CD`       | My portfolio, deployed automatically via a CI/CD pipeline.      | [Link](https://github.com/KunalSingh005/Portfolio) |
-| `auto-folder-backup`          | A Bash script that automates daily backups of critical folders. | [Link](https://github.com/kunalhlc10/Automated-folder-backup) |
-| `Dockerized-Website`          | A containerized static website using Nginx for portability.     | [Link](https://github.com/kunalhlc10/Dockerized-Portfolio-Website) |
-
+| Project                       | Description                                                                  | Link to Repo                                                                |
+|-------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| `portfolio-website-cicd`      | My live portfolio, deployed automatically via a CI/CD pipeline.            | [Link](https://github.com/KunalSingh005/portfolio-website-cicd)             |
+| `dockerized-portfolio-website`| The same portfolio, but packaged as a portable Docker container.             | [Link](https://github.com/KunalSingh005/dockerized-portfolio-website)       |
+| `auto-folder-backup`          | A Bash script that automates daily backups of critical folders.              | [Link](https://github.com/KunalSingh005/auto-folder-backup)                 |
+| `log-cleaner-script`          | A simple Bash script to automatically delete old `.log` and `.tmp` files.      | [Link](https://github.com/KunalSingh005/log-cleaner-script)                 |
 ---
 
 ### 📈 My Learning Roadmap
